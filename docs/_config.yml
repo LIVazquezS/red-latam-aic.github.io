@@ -1,0 +1,11 @@
+title: RELIAC- Red Latinoamerical de Inteligencia Artificial en las Ciencias
+description: Sitio oficial de la Red
+markdown: kramdown
+permalink: pretty
+
+remote_theme: pages-themes/architect@v0.2.0
+plugins: [jekyll-remote-theme]
+
+show_downloads: false
+
+

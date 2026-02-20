@@ -1,0 +1,47 @@
+livs:
+  name: "Luis Itza Vazquez Salazar"
+  image: "/assets/images/livs.jpeg"
+  linkedin: "https://www.linkedin.com/in/luis-itza-vazquez-salazar/"
+  website: "https://livazquezs.github.io/"
+  email: "li.vazquez-salazar@alumni.uni-heidelberg.de"
+
+  bio:
+    es: |
+      Soy originario de Ciudad de Mexico. Estudie la licenciatura en quimica en la Facultad de Quimica de la Universidad Nacional Autonoma de Mexico.
+       Posteriormente continue con mis estudios de maestria en quimica teorica y modelado computacional en la Universidad de Groningen 
+       en los Paises Bajos gracias a una beca ERASMUS+ por parte de la Union Europea. Al termino de este periodo continue con mis estudios de
+       doctorado en fisicoquimica en la Universidad de Basel en Suiza. Posteriormente recibi una beca de la Swiss National Science Foundation 
+       para realizar una estancia postdoctoral en el Instituto de Fisica Teorica de la Universidad de Heidelberg, Alemania. En el otono de 2026,
+       espero iniciar mi grupo de investigacion como profesor asistente.
+    en: |
+      I am originally from Mexico City. I studied chemistry at the Faculty of Chemistry at the National Autonomous University of Mexico. 
+      Later I completed a master's degree in theoretical chemistry and computational modeling at the University of Groningen in the Netherlands 
+      with support of an ERASMUS+ scholarship from the European Union. After obtaining my degree,
+      I continued with a PhD in physical chemistry at the University of Basel in Switzerland. 
+      At the end of my PhD, I received a Swiss National Science Foundation fellowship 
+      for a postdoctoral stay at the Institute for Theoretical Physics at Heidelberg University in Germany. 
+      In autumn 2026, I expect to start my research group as an assistant professor.
+    pt: |
+      Sou da Cidade do Mexico. Fiz a graduacao em quimica na Faculdade de Quimica da Universidade Nacional Autonoma do Mexico.
+      Em seguida fiz um mestrado em quimica teorica e modelagem computacional na Universidade de Groningen, nos Paises Baixos, 
+      com apoio de uma bolsa ERASMUS+ da Uniao Europeia. Depois disso fiz o doutorado em fisicoquimica na Universidade de Basel, na Suica. 
+      Posteriormente recebi uma bolsa da Swiss National Science Foundation para um pos doutorado no 
+      Instituto de Fisica Teorica da Universidade de Heidelberg, na Alemanha. 
+      No outono de 2026, espero iniciar meu grupo de pesquisa como professor assistente.
+
+  interests:
+    es:
+      - "Diseno inverso de materiales con metodos de inteligencia artificial"
+      - "Cuantificacion de la incertidumbre en aprendizaje automatico"
+      - "Modelacion multiescala en quimica"
+      - "Exploracion del espacio quimico"
+    en:
+      - "Inverse design of materials with artificial intelligence methods"
+      - "Uncertainty quantification in machine learning"
+      - "Multiscale modeling in chemistry"
+      - "Exploration of chemical space"
+    pt:
+      - "Design inverso de materiais com metodos de inteligencia artificial"
+      - "Quantificacao de incerteza em aprendizado de maquina"
+      - "Modelagem multiescala em quimica"
+      - "Exploracao do espaco quimico"
